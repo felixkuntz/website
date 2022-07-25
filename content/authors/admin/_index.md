@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Test Name
+title: Felix Kuntz
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
     url: https://www.ox.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: Master of Philosophy Student at the University of Oxford
+bio: M.Phil. Economics Student at the University of Oxford
 
 # Interests to show in About widget
 interests:
@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:your-email@example.com"
+    link: "mailto:felixkuntz@icloud.com"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/felixkuntz101
@@ -67,8 +67,8 @@ email: ''
 highlight_name: true
 ---
 
-My name is Test Name. I am a first-year graduate student in Economics at the University of Oxford. 
+My name is Felix Kuntz. I am a first-year graduate student in Economics at the University of Oxford. 
 
-I hold a Bachelor of Science in Economics and a Bachelor of Arts in Politcal Science from Goethe University Frankfurt (Germany). Before joing Oxford, I worked as Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt (Germany). During my undergraduate studies, I intered at the Permanent Mission of Germany to the United Nations in New York City and the Federal Minstry of Economics Affairs of Germany in Berlin.
+I hold a Bachelor of Science in Economics and a Bachelor of Arts in Political Science from Goethe University Frankfurt (Germany). Before joining Oxford, I worked as Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt (Germany). During my undergraduate studies, I completed internships at the Permanent Mission of Germany to the United Nations in New York City and at the Federal Ministry of Economics Affairs in Berlin.
 
-My research interest include Macroeconomics, Monetary Economicy, and Political Economy.
+My research interest include Macroeconomics, Monetary Economics, and Political Economy.
