@@ -41,7 +41,7 @@ experience:
     description: Intern at the Federal Ministry of Economic Affairs and Energy of Germany working on Economic Policy topics such as Public Finance, European Monetary Union, Competition, Energy and Climate Protection.
 
   - title: Intern
-    company: Permanent Mission of the Federal Republic of Germany to the United Nationa
+    company: Permanent Mission of the Federal Republic of Germany to the United Nation
     company_url: https://new-york-un.diplo.de/un-en
     company_logo: org-x
     location: New York City, USA
