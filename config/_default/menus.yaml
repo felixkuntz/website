@@ -10,6 +10,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
+  - ECB Communication
+    url: 'content/project'
+    weight: 30
 
 
 
