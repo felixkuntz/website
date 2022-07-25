@@ -11,14 +11,14 @@ image:
   focal_point: Smart
 
 links:
+  - icon: dashboard
+    name: Dashboard
+    url: 'pages/ecb/'
   - icon: twitter
     icon_pack: fab
     name: Follow
     url: https://twitter.com/felixkuntz101
-  - icon: twitter
-    icon_pack: fab
-    name: Dashboard
-    url: 'pages/ecb/'
+
 url_code: ''
 url_pdf: ''
 url_slides: ''
