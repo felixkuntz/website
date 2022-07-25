@@ -67,6 +67,8 @@ email: ''
 highlight_name: true
 ---
 
-My name is Test Name. I am a first-year graduate student in Economics at the University of Oxford. I hold a Bachelor of Science in Economics and a Bachelor of Arts in Politcal Science from Goethe University Frankfurt (Germany). Before joing Oxford, I worked as Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt (Germany). During my undergraduate studies, I intered at the Permanent Mission of Germany to the United Nations in New York City and the Federal Minstry of Economics Affairs of Germany in Berlin.
+My name is Test Name. I am a first-year graduate student in Economics at the University of Oxford. 
+
+I hold a Bachelor of Science in Economics and a Bachelor of Arts in Politcal Science from Goethe University Frankfurt (Germany). Before joing Oxford, I worked as Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt (Germany). During my undergraduate studies, I intered at the Permanent Mission of Germany to the United Nations in New York City and the Federal Minstry of Economics Affairs of Germany in Berlin.
 
 My research interest include Macroeconomics, Monetary Economicy, and Political Economy.
