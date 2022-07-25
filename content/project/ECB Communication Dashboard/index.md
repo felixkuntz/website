@@ -7,7 +7,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: The European Central Bank in Frankfurt, Germany
+  caption: The Euro sign in Frankfurt, Germany
   focal_point: Smart
 
 links:
