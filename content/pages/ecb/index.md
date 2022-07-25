@@ -1,6 +1,6 @@
-```{r set-options, echo=FALSE, cache=FALSE}
+{r set-options, echo=FALSE, cache=FALSE}
 options(width = 1200)
-```
+
 
 ---
 title: ECB Communication Dashboard
