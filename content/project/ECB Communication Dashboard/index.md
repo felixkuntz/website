@@ -12,7 +12,6 @@ image:
 
 links:
   - icon: dashboard
-    icon_pack: fab
     name: Dashboard
     url: 'pages/ecb/'
   - icon: twitter
