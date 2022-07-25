@@ -104,6 +104,8 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+  plugins_css:
+    'assets/scss/custom.scss'
 
 # Security
 
@@ -111,4 +113,3 @@ security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
 
-plugins_css: 'assets/scss/custom.scss'
