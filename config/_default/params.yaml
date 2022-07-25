@@ -104,8 +104,6 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-  plugins_css:
-    'assets/scss/custom.scss'
 
 # Security
 
