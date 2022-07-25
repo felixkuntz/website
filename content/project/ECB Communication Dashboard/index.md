@@ -15,7 +15,7 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/felixkuntz101
-url_code: ''
+url_code: 'pages/ecb/'
 url_pdf: ''
 url_slides: ''
 url_video: ''
