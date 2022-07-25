@@ -75,4 +75,4 @@ My name is Test Name. I am a first-year graduate student in Economics at the Uni
 
 My research interest include Macroeconomics, Monetary Economicy, and Political Economy.
 
-#  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
