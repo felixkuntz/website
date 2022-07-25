@@ -30,10 +30,10 @@ education:
       year: Since 2022
     - course: B.Sc. in Economics
       institution: Goethe University Frankfurt
-      year: 2021
+      year: 2017 - 2021
     - course: B.A. in Political Science
       institution: Goethe University Frankfurt
-      year: 2021
+      year: 2017 - 2021
 
 
 # Social/Academic Networking
