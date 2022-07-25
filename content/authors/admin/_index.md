@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master of Philosophy (M.Phil.) in Economics
+    - course: M.Phil. in Economics
       institution: University of Oxford
-      year: since 2022
-    - course: Bachelor of Science (B.Sc.) in Economics
+      year: Since 2022
+    - course: B.Sc. in Economics
       institution: Goethe University Frankfurt
       year: 2021
-    - course: Bachelor of Science (B.A.) in Political Science
+    - course: B.A. in Political Science
       institution: Goethe University Frankfurt
       year: 2021
 
@@ -71,8 +71,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Test Name. I am a first-year graduate student in Economics at the University of Oxford. I hold a Bachelor of Science in Economics and a Bachelor of Arts in Politcal Science from Goethe University Frankfurt (Germany). Before joing Oxford, I worked as Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt (Germany). During my undergraduate studies, I intered at the Permanent Mission of Germany to the United Nations in New York City and the Federal Minstry of Economics Affairs of Germany in Berlin.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interest include Macroeconomics, Monetary Economicy, and Political Economy.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
