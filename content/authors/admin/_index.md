@@ -17,7 +17,7 @@ organizations:
 bio: Master of Philosophy Student at the University of Oxford
 
 # Interests to show in About widget
-research interest:
+interests:
   - Macroeconomics
   - Monetary Economics
   - Political Economy
