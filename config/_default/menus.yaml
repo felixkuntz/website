@@ -11,7 +11,7 @@ main:
     url: '#projects'
     weight: 20
   - name: ECB Communication
-    url: 'content/project/ecbdashboard.md'
+    url: 'content/work/ECB dashboard'
     weight: 30
 
 
