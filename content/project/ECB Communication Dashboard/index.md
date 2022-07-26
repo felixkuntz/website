@@ -41,10 +41,20 @@ This projects aims to analyze the speeches given by officials of the European Ce
 
 Data source: European Central Bank. (25 October 2019). Speeches dataset. Retrieved from: [www.ecb.europa.eu](https://www.ecb.europa.eu/press/key/html/downloads.en.html).
 
+# Dashboards
+
 <details>
     <summary>Dashboard 1: Relative Occurrence of Words</summary>
     The dashboard enables to search ECB's communication for certain words. Up to 15 words can be entered in the left column and the graph shows the relative occurrence of these words for each year. The relative occurrence is calculated as the quotient of the number of occurrences of the entered words over the total number of words in the corresponding year abstracting from stop words (i.e., words without meaning).
 </details>
+
+# Updates
+
+<details>
+    <summary>2022/07/25 Initial Publication</summary>
+    First version of dashboard was published.
+</details>
+
 
 For bug reports, suggestions for other dashboards, and other comments, please mail me. 
 
