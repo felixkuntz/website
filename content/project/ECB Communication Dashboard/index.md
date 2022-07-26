@@ -49,7 +49,9 @@ Data source: European Central Bank. (25 October 2019). Speeches dataset. Retriev
 
 <details>
     <summary>2022/07/25 Initial Publication</summary>
-    First version of [Dashboard 1: Relative Occurrence of Words](https://public.tableau.com/views/ECBRelativeOccurrenceofWords/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) was published.
+    
+First version of [Dashboard 1: Relative Occurrence of Words](https://public.tableau.com/views/ECBRelativeOccurrenceofWords/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) was published.
+
 </details>
 
 
