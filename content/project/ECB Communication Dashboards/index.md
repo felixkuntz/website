@@ -38,6 +38,9 @@ This projects aims to analyze the speeches given by officials of the European Ce
 
 Data source: European Central Bank. (25 October 2019). Speeches dataset. Retrieved from: [www.ecb.europa.eu](https://www.ecb.europa.eu/press/key/html/downloads.en.html).
 
+&nbsp;
+
+
 ## Dashboards
 
 <details>
