@@ -36,11 +36,9 @@ Central Banks' communication is at the center of macroeconomic policy discussion
 
 This projects aims to analyze the speeches given by officials of the European Central Bank (ECB) with text mining techniques and visualize interesting aspects in Tableau dashboards. For this project, I use the publicly available speeches dataset of the ECB (link below). 
 
-Dashboard 1: Relative Occurrence of Words
-
 <details>
     <summary>Dashboard 1: Relative Occurrence of Words</summary>
-    Foldable Content[The dashboard enables to search ECB's communication for certain words. Up to 15 words can be entered in the left column and the graph shows the relative occurrence of these words for each year. The relative occurrence is calculated as the quotient of the number of occurrences of the entered words over the total number of words in the corresponding year abstracting from stop words (i.e., words without meaning).][1]
+    The dashboard enables to search ECB's communication for certain words. Up to 15 words can be entered in the left column and the graph shows the relative occurrence of these words for each year. The relative occurrence is calculated as the quotient of the number of occurrences of the entered words over the total number of words in the corresponding year abstracting from stop words (i.e., words without meaning).
 </details>
 
 For bug reports, suggestions for other dashboards, and other comments, please mail me. 
