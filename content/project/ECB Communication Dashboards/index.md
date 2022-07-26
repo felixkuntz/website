@@ -86,5 +86,7 @@ First version of [ECB Communication Dashboard: Relative Occurrence of Words](htt
 &nbsp;
 
 
-For bug reports, suggestions for other dashboards, and other comments, please mail me. 
+For bug reports, suggestions for other dashboards, and other comments, please [mail me](mailto:felixkuntz@icloud.com). 
+
+&nbsp;
 
