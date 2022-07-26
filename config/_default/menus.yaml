@@ -10,8 +10,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
-  - name: ECB Communication
-    url: https://public.tableau.com/views/ECBRelativeOccurrenceofWords/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+  - name: ECB Communication Dashboards
+    url: https://public.tableau.com/app/profile/felixkuntz
     weight: 30
 
 

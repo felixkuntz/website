@@ -12,8 +12,8 @@ image:
 
 links:
   - icon: dashboard
-    name: Dashboard
-    url: https://public.tableau.com/views/ECBRelativeOccurrenceofWords/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+    name: Dashboards
+    url: https://public.tableau.com/app/profile/felixkuntz
   - icon: twitter
     icon_pack: fab
     name: Follow
@@ -41,7 +41,21 @@ Data source: European Central Bank. (25 October 2019). Speeches dataset. Retriev
 ## Dashboards
 
 <details>
-    <summary>Dashboard 1: Relative Occurrence of Words</summary>
+    <summary>ECB Communication Dashboard: Basic Statistics</summary>
+
+The dashboard provides basic statistics such total number of speeches per year, total number of speeches per month of the year, average length of speeches over years, and number of speeches at day of the month).
+
+</details>
+
+<details>
+    <summary>ECB Communication Dashboard: Speakers</summary>
+
+The dashboard examines the speakers addressing the general public and experts. Who held the most and the least speeches? Who talks the most and who is the most tersely?
+
+</details>
+
+<details>
+    <summary>ECB Communication Dashboard: Relative Occurrence of Words</summary>
 
 The dashboard enables to search ECB's communication for certain words. Up to 15 words can be entered in the left column and the graph shows the relative occurrence of these words for each year. The relative occurrence is calculated as the quotient of the number of occurrences of the entered words over the total number of words in the corresponding year abstracting from stop words (i.e., words without meaning).
 
@@ -50,9 +64,17 @@ The dashboard enables to search ECB's communication for certain words. Up to 15 
 ## Updates
 
 <details>
+    <summary>2022/07/26 Publication of more dashboards</summary>
+    
+The [ECB Communication Dashboard: Basic Statistics](https://public.tableau.com/views/ECBCommunicationDashboard1BasicStatistics/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link) and the [ECB Communication Dashboard: Speakers](https://public.tableau.com/views/ECBCommunicationDashboard2Speakers/Dashboard3?:language=en-GB&:display_count=n&:origin=viz_share_link) were published.
+
+</details>
+
+
+<details>
     <summary>2022/07/25 Initial Publication</summary>
     
-First version of [Dashboard 1: Relative Occurrence of Words](https://public.tableau.com/views/ECBRelativeOccurrenceofWords/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) was published.
+First version of [ECB Communication Dashboard: Relative Occurrence of Words](https://public.tableau.com/views/ECBRelativeOccurrenceofWords/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) was published.
 
 </details>
 
