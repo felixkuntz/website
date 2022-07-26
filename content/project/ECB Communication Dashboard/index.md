@@ -43,7 +43,7 @@ Data source: European Central Bank. (25 October 2019). Speeches dataset. Retriev
 <details>
     <summary>Dashboard 1: Relative Occurrence of Words</summary>
 
-    The dashboard enables to search ECB's communication for certain words. Up to 15 words can be entered in the left column and the graph shows the relative occurrence of these words for each year. The relative occurrence is calculated as the quotient of the number of occurrences of the entered words over the total number of words in the corresponding year abstracting from stop words (i.e., words without meaning).
+The dashboard enables to search ECB's communication for certain words. Up to 15 words can be entered in the left column and the graph shows the relative occurrence of these words for each year. The relative occurrence is calculated as the quotient of the number of occurrences of the entered words over the total number of words in the corresponding year abstracting from stop words (i.e., words without meaning).
 
 </details>
 
