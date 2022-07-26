@@ -13,7 +13,7 @@ image:
 links:
   - icon: dashboard
     name: Dashboard
-    url: 'pages/ecb/'
+    url: https://public.tableau.com/views/ECBRelativeOccurrenceofWords/Dashboard1?:language=de-DE&:display_count=n&:origin=viz_share_link
   - icon: twitter
     icon_pack: fab
     name: Follow
