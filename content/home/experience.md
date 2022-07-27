@@ -33,7 +33,7 @@ experience:
         Student Research Assistant at the Department of Household Finance.
 
   - title: Intern
-    company: German Federal Ministry of Economics Affairs
+    company: German Federal Ministry of Economic Affairs
     company_url: 'https://www.bmwk.de/Navigation/DE/Home/home.html'
     company_logo: bmwi
     location: Berlin, Germany
