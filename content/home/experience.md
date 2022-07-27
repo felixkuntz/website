@@ -35,7 +35,7 @@ experience:
   - title: Intern
     company: German Federal Ministry of Economics Affairs
     company_url: 'https://www.bmwk.de/Navigation/DE/Home/home.html'
-    company_logo:
+    company_logo: bmwi
     location: Berlin, Germany
     date_start: '2019-08-01'
     date_end: '2019-10-01'
