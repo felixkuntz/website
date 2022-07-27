@@ -46,7 +46,7 @@ Data source: European Central Bank. (25 October 2019). Speeches dataset. Retriev
 <details>
     <summary>ECB Communication Dashboard: Basic Statistics</summary>
 
-The dashboard provides basic statistics such total number of speeches per year, total number of speeches per month of the year, average length of speeches over years, and number of speeches at day of the month). [Open in Tableau](https://public.tableau.com/views/ECBCommunicationDashboard1BasicStatistics/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
+The dashboard provides basic statistics such total number of speeches per year, total number of speeches per month of the year, average length of speeches over years, and number of speeches at day of the month. [Open in Tableau](https://public.tableau.com/views/ECBCommunicationDashboard1BasicStatistics/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 </details>
 
