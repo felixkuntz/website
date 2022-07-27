@@ -30,7 +30,7 @@ experience:
     date_start: '2020-11-01'
     date_end: ''
     description: |2-
-        Student Research Assistant at the Department of Households Finance.
+        Student Research Assistant at the Department of Household Finance.
 
   - title: Intern
     company: German Federal Ministry of Economics Affairs
