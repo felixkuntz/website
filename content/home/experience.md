@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Leibniz Institute for Financial Research SAFE
-    company_url: https://safe-frankfurt.de
+    company_url: 'https://safe-frankfurt.de'
     company_logo:
     location: Frankfurt, Germany
     date_start: '2020-11-01'
@@ -34,7 +34,7 @@ experience:
 
   - title: Intern
     company: German Federal Ministry of Economics Affairs
-    company_url: https://www.bmwk.de/Navigation/DE/Home/home.html
+    company_url: 'https://www.bmwk.de/Navigation/DE/Home/home.html'
     company_logo:
     location: Berlin, Germany
     date_start: '2019-08-01'
@@ -44,7 +44,7 @@ experience:
 
   - title: Intern
     company: Permanent Mission of Germany to the United Nations
-    company_url: https://new-york-un.diplo.de/un-en
+    company_url: 'https://new-york-un.diplo.de/un-en'
     company_logo:
     location: New York City, USA
     date_start: '2019-03-01'
