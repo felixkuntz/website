@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Leibniz Institute for Financial Research SAFE
     company_url: 'https://safe-frankfurt.de'
-    company_logo: safe
+    company_logo: germany
     location: Frankfurt, Germany
     date_start: '2020-11-01'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
   - title: Intern
     company: German Federal Ministry of Economic Affairs
     company_url: 'https://www.bmwk.de/Navigation/DE/Home/home.html'
-    company_logo: bmwi
+    company_logo: germany
     location: Berlin, Germany
     date_start: '2019-08-01'
     date_end: '2019-10-01'
