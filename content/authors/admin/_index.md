@@ -28,7 +28,7 @@ education:
   courses:
     - course: M.Phil. in Economics
       institution: University of Oxford
-      year: Since 2022
+      year: Starting 2022
     - course: B.Sc. in Economics
       institution: Goethe University Frankfurt
       year: 2017 - 2021
