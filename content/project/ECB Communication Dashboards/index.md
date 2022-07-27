@@ -34,7 +34,7 @@ slides: ""
 
 Central bank communication is at the heart of discussions of macroeconomic policy. For decades, a productive field of research has been devoted to analyzing how central banks communicate their policies to the general public and experts. Considering the increasing availability of comprehensive data sources and analytical techniques, the ways of analyzing central bank communication have evolved prolifically. This project is a modest contribution to the understanding of policymakers' communication and a channel to cultivate my passion for economics and data science.
 
-This project aims to analyze the speeches of European Central Bank (ECB) officials using text mining techniques and visualizations in Tableau Dashboards. For this project I use the publicly available speech dataset of the ECB. 
+The project aims to analyze the speeches of European Central Bank (ECB) officials using text mining techniques and visualizations in Tableau Dashboards. For this project I use the publicly available speech dataset of the ECB. 
 
 Data source: European Central Bank. (25 October 2019). Speeches dataset. Retrieved from: [www.ecb.europa.eu](https://www.ecb.europa.eu/press/key/html/downloads.en.html).
 
