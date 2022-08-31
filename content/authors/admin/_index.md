@@ -6,7 +6,7 @@ title: Felix Kuntz
 superuser: true
 
 # Role/position/tagline
-role: Incoming Graduate Student
+role: Graduate Student Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://www.ox.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: Incoming M.Phil. Economics Student at the University of Oxford
+bio: M.Phil. Economics Student at the University of Oxford
 
 # Interests to show in About widget
 interests:
@@ -28,7 +28,7 @@ education:
   courses:
     - course: M.Phil. in Economics
       institution: University of Oxford
-      year: Starting 2022
+      year: 2022 - present
     - course: B.Sc. in Economics
       institution: Goethe University Frankfurt
       year: 2017 - 2021
@@ -68,10 +68,10 @@ email: ''
 highlight_name: true
 ---
 
-My name is Felix Kuntz. I am an incoming first-year graduate student in Economics at the University of Oxford. I hold a Bachelor of Science in Economics and a Bachelor of Arts in Political Science from Goethe University Frankfurt (Germany). 
+My name is Felix Kuntz. I am a graduate student in economics at the University of Oxford. I hold a Bachelor of Science in Economics and a Bachelor of Arts in Political Science from Goethe University Frankfurt (Germany). 
 
-Currently, I am working as Student Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt (Germany). During my undergraduate studies, I completed internships at the Permanent Mission of Germany to the United Nations in New York City and at the Federal Ministry of Economics Affairs in Berlin.
+Before joining University of Oxford, I worked as Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt (Germany). During my undergraduate studies, I completed internships at the Permanent Mission of Germany to the United Nations in New York City and at the Federal Ministry of Economics Affairs in Berlin.
 
-My research interests include Macroeconomics, Monetary Economics, and Political Economy.
+My research interests include Macroeconomics, Monetary Economics, and Political Economy. 
 
 &nbsp;

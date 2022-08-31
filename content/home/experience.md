@@ -28,12 +28,12 @@ experience:
     company_logo: safe
     location: Frankfurt, Germany
     date_start: '2020-11-01'
-    date_end: ''
+    date_end: '2022-08-31'
     description: |2-
         Student Research Assistant at the Department of Household Finance.
 
   - title: Intern
-    company: German Federal Ministry of Economic Affairs
+    company: Federal Ministry of Economic Affairs of Germany
     company_url: 'https://www.bmwk.de/Navigation/DE/Home/home.html'
     company_logo: germany
     location: Berlin, Germany
