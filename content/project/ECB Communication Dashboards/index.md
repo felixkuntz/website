@@ -14,10 +14,10 @@ links:
   - icon: dashboard
     name: Dashboards
     url: https://public.tableau.com/app/profile/felixkuntz
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/felixkuntz101
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/felixkuntz101
 
 url_code: ''
 url_pdf: ''
