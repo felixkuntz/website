@@ -21,7 +21,18 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
+  - title: Research Intern
+    company: Deutsche Bundesbank
+    company_url: 'https://www.bundesbank.de/de'
+    company_logo: bundesbank
+    location: Frankfurt, Germany
+    date_start: '2023-06-26'
+    date_end: '2022-09-30'
+    description: |2-
+        Research Intern at the Economics Department in the International and Euro-Area Macroeconomic Analysis Division.
+        
   - title: Research Assistant
     company: Leibniz Institute for Financial Research SAFE
     company_url: 'https://safe-frankfurt.de'
