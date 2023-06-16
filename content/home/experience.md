@@ -29,7 +29,7 @@ experience:
     company_logo: bundesbank
     location: Frankfurt, Germany
     date_start: '2023-06-26'
-    date_end: '2022-09-30'
+    date_end: ''
     description: |2-
         Research Intern at the Economics Department in the International and Euro-Area Macroeconomic Analysis Division.
         
