@@ -29,9 +29,9 @@ experience:
     company_logo: bundesbank
     location: Frankfurt, Germany
     date_start: '2023-06-26'
-    date_end: ''
+    date_end: '2023-09-29'
     description: |2-
-        Research Intern at the Economics Department in the International and Euro-Area Macroeconomic Analysis Division.
+        Research Intern at the DG Economics in the International and Euro-Area Macroeconomic Analysis Division.
         
   - title: Research Assistant
     company: Leibniz Institute for Financial Research SAFE
