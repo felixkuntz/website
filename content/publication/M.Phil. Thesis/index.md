@@ -33,8 +33,6 @@ abstract: Recent literature has demonstrated significant quantitative and qualit
 # Summary. An optional shortened abstract.
 summary: This thesis aims to investigate monetary policy transmission and optimal monetary policy in a currency union with heterogeneous agent. To this end, I utilize a TE-TANK model to study the impact of cross- and within-country heterogeneity on the conduct of monetary policy.
 
-M.Phil. Thesis at the University of Oxford
-
 tags: []
 
 # Display this page in the Featured widget?
