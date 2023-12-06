@@ -18,9 +18,10 @@ bio: M.Phil. Economics Student at the University of Oxford
 
 # Interests to show in About widget
 interests:
-  - Heterogenous Agent Macroeconomics
-  - Unconventional Monetary Policy
-  - Monetary Policy in Currency Unions
+  - Macroeconomics
+  - Heterogenous Agents 
+  - Monetary Policy
+  - Fiscal and Monetary Interaction
 
 # Education to show in About widget
 education:
@@ -63,8 +64,8 @@ highlight_name: true
 
 My name is Felix Kuntz. I am a graduate student in economics at the University of Oxford. I hold a Bachelor of Science in Economics and a Bachelor of Arts in Political Science from Goethe University Frankfurt (Germany). 
 
-Before joining University of Oxford, I worked as Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt (Germany). During my studies, I completed internships at Deutsche Bundesbank in Frankfurt, the Permanent Mission of Germany to the United Nations in New York City and the Federal Ministry of Economics Affairs in Berlin.
+Prior to joining the University of Oxford, I worked as a research assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt. Moreover, I completed internships at the Deutsche Bundesbank in Frankfurt, the Permanent Mission of Germany to the United Nations in New York City, and the Federal Ministry of Economic Affairs in Berlin.
 
-My research interests include Macroeconomics, Monetary Economics, and Political Economy. 
+My research interests include Macroeconomics, Heterogeneous Agents Macro, and Monetary Policy. 
 
 &nbsp;
