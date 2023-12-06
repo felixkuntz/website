@@ -25,13 +25,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['7']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+# publication: In *Wowchemy Conference*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Recent literature has demonstrated significant quantitative and qualitative changes in the predictions of New Keynesian models when the representative agent framework is abandoned and heterogeneity across agents is taken into account. This thesis aims to investigate monetary policy transmission and optimal monetary policy in a currency union with heterogeneous agent. To this end, I utilize a two-economy TANK model to study the impact of cross- and within-country heterogeneity on the conduct of monetary policy. The two closed economies share a common currency and differ only in the fraction of Keynesian and Ricardian consumers. To strengthen the empirical underpinnings of the model, household balance sheet data from the Household Finance and Consumption Survey of the ECB is used for the calibration of the model.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This thesis aims to investigate monetary policy transmission and optimal monetary policy in a currency union with heterogeneous agent. To this end, I utilize a two-economy TANK model to study the impact of cross- and within-country heterogeneity on the conduct of monetary policy.
 
 tags: []
 
@@ -75,12 +75,12 @@ projects:
 slides: example
 ---
 
-#{{% callout note %}}
-#Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata #into their reference management software.
-#{{% /callout %}}
+# {{% callout note %}}
+# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
 
-#{{% callout note %}}
-#Create your slides in Markdown - click the _Slides_ button to check out the example.
-#{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the _Slides_ button to check out the example.
+# {{% /callout %}}
 
 #Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
