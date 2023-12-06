@@ -51,7 +51,7 @@ experience:
     date_start: '2019-08-01'
     date_end: '2019-10-01'
     description: |2-
-        Intern at the Federal Ministry of Economic Affairs and Energy of Germany working on Economic Policy topics such as Public Finance, European Monetary Union, Competition, Energy and Climate Protection.
+        Intern at the Economic Policy Department.
 
   - title: Intern
     company: Permanent Mission of Germany to the United Nations
@@ -61,7 +61,7 @@ experience:
     date_start: '2019-03-01'
     date_end: '2019-06-01'
     description: |2-
-        Intern at the Permanent Mission of the Federal Republic of Germany to the United Nations working on Sanctions enacted by the UN Security Council related to Counter Terrorism and the DPR Korea.
+        Intern at the Politics Department.
 
 design:
   columns: '2'
