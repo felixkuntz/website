@@ -18,10 +18,9 @@ bio: M.Phil. Economics Student at the University of Oxford
 
 # Interests to show in About widget
 interests:
-  - Macroeconomics
-  - Monetary Economics
-  - Political Economy
-  - Data Science
+  - Heterogenous Agent Macroeconomics
+  - Unconventional Monetary Policy
+  - Monetary Policy in Currency Unions
 
 # Education to show in About widget
 education:
