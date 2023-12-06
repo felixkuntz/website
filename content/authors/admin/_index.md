@@ -21,7 +21,7 @@ interests:
   - Macroeconomics
   - Heterogenous Agents 
   - Monetary Policy
-  - Fiscal and Monetary Interaction
+  - Fiscal and Monetary Interactions
 
 # Education to show in About widget
 education:
