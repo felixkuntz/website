@@ -25,13 +25,13 @@ publishDate: '2017-01-01T00:00:00Z'
 # publication_types: ['7']
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Wowchemy Conference*
+publication: M.Phil. Thesis at the University of Oxford
 # publication_short: In *ICW*
 
-abstract: Recent literature has demonstrated significant quantitative and qualitative changes in the predictions of New Keynesian models when the representative agent framework is abandoned and heterogeneity across agents is taken into account. This thesis aims to investigate monetary policy transmission and optimal monetary policy in a currency union with heterogeneous agent. To this end, I utilize a two-economy TANK model to study the impact of cross- and within-country heterogeneity on the conduct of monetary policy. The two closed economies share a common currency and differ only in the fraction of Keynesian and Ricardian consumers. To strengthen the empirical underpinnings of the model, household balance sheet data from the Household Finance and Consumption Survey of the ECB is used for the calibration of the model.
+abstract: Recent literature has demonstrated significant quantitative and qualitative changes in the predictions of New Keynesian models when the representative agent framework is abandoned and heterogeneity across agents is taken into account. This thesis aims to investigate monetary policy transmission and optimal monetary policy in a currency union with heterogeneous agent. To this end, I utilize a Two-Economy-Two-Agent New Keynesian (TE-TANK) model to study the impact of cross- and within-country heterogeneity on the conduct of monetary policy. The two closed economies share a common currency and differ only in the fraction of Keynesian and Ricardian consumers. To strengthen the empirical underpinnings of the model, household balance sheet data from the Household Finance and Consumption Survey of the ECB is used for the calibration of the model.
 
 # Summary. An optional shortened abstract.
-summary: This thesis aims to investigate monetary policy transmission and optimal monetary policy in a currency union with heterogeneous agent. To this end, I utilize a two-economy TANK model to study the impact of cross- and within-country heterogeneity on the conduct of monetary policy.
+summary: This thesis aims to investigate monetary policy transmission and optimal monetary policy in a currency union with heterogeneous agent. To this end, I utilize a TE-TANK model to study the impact of cross- and within-country heterogeneity on the conduct of monetary policy.
 
 tags: []
 
