@@ -41,7 +41,7 @@ experience:
     date_start: '2020-11-01'
     date_end: '2022-08-31'
     description: |2-
-        Student Research Assistant at the Department of Household Finance.
+        Research Assistant at the Department of Household Finance.
 
   - title: Intern
     company: Federal Ministry of Economic Affairs of Germany
@@ -61,7 +61,7 @@ experience:
     date_start: '2019-03-01'
     date_end: '2019-06-01'
     description: |2-
-        Intern at the Politics Department.
+        Intern at the Foreign Policy Department.
 
 design:
   columns: '2'
