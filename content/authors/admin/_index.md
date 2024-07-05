@@ -6,7 +6,7 @@ title: Felix Kuntz
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student Economics
+role: Graduate Student in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,9 +26,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: D.Phil. in Economics
+      institution: University of Oxford
+      year: 2024 - present
     - course: M.Phil. in Economics
       institution: University of Oxford
-      year: 2022 - present
+      year: 2022 - 2024
     - course: B.Sc. in Economics
       institution: Goethe University Frankfurt
       year: 2017 - 2021
@@ -62,10 +65,12 @@ email: ''
 highlight_name: true
 ---
 
-My name is Felix Kuntz. I am a graduate student in economics at the University of Oxford. I hold a Bachelor of Science in Economics and a Bachelor of Arts in Political Science from Goethe University Frankfurt (Germany). 
+My name is Felix Kuntz. I am a Doctoral Student in Economics at the University of Oxford and a Research Trainee at the European Central Bank. 
 
-Prior to joining the University of Oxford, I worked as a research assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt. Moreover, I completed internships at the Deutsche Bundesbank in Frankfurt, the Permanent Mission of Germany to the United Nations in New York City, and the Federal Ministry of Economic Affairs in Berlin.
+I hold a Master in Philosophy in Economics from the University of Oxford, a Bachelor of Science in Economics and a Bachelor of Arts in Political Science from Goethe University Frankfurt. 
 
-My research interests include Macroeconomics, Heterogeneous Agents Macro, and Monetary Policy. 
+Prior to joining the University of Oxford, I worked as a Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt. Moreover, I completed internships at the Deutsche Bundesbank in Frankfurt, the Permanent Mission of Germany to the United Nations in New York City, and the Federal Ministry of Economic Affairs in Berlin.
+
+My research interests include Macroeconomics, Heterogeneous Agents, and Monetary Policy. 
 
 &nbsp;

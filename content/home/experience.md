@@ -23,6 +23,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Research Trainee
+    company: European Central Bank 
+    company_url: 'https://www.ecb.europa.eu'
+    company_logo: ecb_large
+    location: Frankfurt, Germany
+    date_start: '2024-07-01'
+    date_end: ''
+    description: |2-
+        Research Trainee at the DG Research in the Monetary Policy Research Division.
+        
   - title: Research Intern
     company: Deutsche Bundesbank
     company_url: 'https://www.bundesbank.de/de'
