@@ -69,7 +69,7 @@ My name is Felix Kuntz. I am a Doctoral Student in Economics at the University o
 
 I hold a Master in Philosophy in Economics from the University of Oxford, a Bachelor of Science in Economics and a Bachelor of Arts in Political Science from Goethe University Frankfurt. 
 
-Prior to joining the University of Oxford, I worked as a Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt. Moreover, I completed internships at the Deutsche Bundesbank in Frankfurt, the Permanent Mission of Germany to the United Nations in New York City, and the Federal Ministry of Economic Affairs in Berlin.
+Prior to joining the University of Oxford and the ECB, I worked as a Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt. Moreover, I completed internships at the Deutsche Bundesbank in Frankfurt, the Permanent Mission of Germany to the United Nations in New York City, and the Federal Ministry of Economic Affairs in Berlin.
 
 My research interests include Macroeconomics, Heterogeneous Agents, and Monetary Policy. 
 
