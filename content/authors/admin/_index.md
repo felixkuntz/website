@@ -6,7 +6,7 @@ title: Felix Kuntz
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student in Economics
+role: Doctoral Student in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,13 @@ organizations:
     url: https://www.ox.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: M.Phil. Economics Student at the University of Oxford
+bio: Doctoral Student in Economics at the University of Oxford
 
 # Interests to show in About widget
 interests:
-  - Macroeconomics
-  - Heterogeneous Agents 
   - Monetary Policy
+  - Financial Frictions
+  - Heterogeneous Agents 
   - Fiscal and Monetary Interactions
 
 # Education to show in About widget
@@ -67,10 +67,10 @@ highlight_name: true
 
 My name is Felix Kuntz. I am a Doctoral Student in Economics at the University of Oxford and a Research Trainee at the European Central Bank. 
 
-I hold a Master in Philosophy in Economics from the University of Oxford, a Bachelor of Science in Economics, and a Bachelor of Arts in Political Science from Goethe University Frankfurt. 
+I hold a Master of Philosophy in Economics from the University of Oxford, a Bachelor of Science in Economics, and a Bachelor of Arts in Political Science from Goethe University Frankfurt. 
 
 Prior to joining the University of Oxford and the ECB, I worked as a Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt. Moreover, I completed internships at the Deutsche Bundesbank in Frankfurt, the Permanent Mission of Germany to the United Nations in New York City, and the Federal Ministry of Economic Affairs in Berlin.
 
-My research interests include Macroeconomics, Heterogeneous Agents, and Monetary Policy. 
+My research interests are in the field of macroeconomics, in particular monetary policy, financial frictions, heterogeneous agents, and fiscal-monetary interactions.
 
 &nbsp;
