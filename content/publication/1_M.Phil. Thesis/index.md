@@ -5,7 +5,7 @@ title: 'Monetary and Fiscal Policy Interaction in a Currency Union with Heteroge
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - F. Kuntz
 
 # Author notes (optional)
 #author_notes:
