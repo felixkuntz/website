@@ -30,7 +30,7 @@ doi: ''
 # publication: 
 # publication_short: In *ICW*
 
-abstract:
+abstract: To be published
 
 # Summary. An optional shortened abstract.
 summary:
