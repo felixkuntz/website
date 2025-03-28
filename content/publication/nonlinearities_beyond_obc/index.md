@@ -76,3 +76,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+# Presentations
+25/02/2024 European Central Bank, Internal Seminar
