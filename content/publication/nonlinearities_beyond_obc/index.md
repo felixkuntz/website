@@ -32,6 +32,8 @@ doi: ''
 
 abstract: To be published
 
+presentation: European Central Bank (Internal Seminar)
+
 # Summary. An optional shortened abstract.
 summary:
 
