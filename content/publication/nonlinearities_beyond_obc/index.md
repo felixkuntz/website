@@ -77,5 +77,5 @@ projects:
 slides: example
 ---
 
-### Presentations
-25/02/2024 European Central Bank, Internal Seminar
+### Presented
+25/02/2025 &emsp; European Central Bank, DG Research, Internal Seminar
