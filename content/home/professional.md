@@ -36,7 +36,7 @@ design:
   columns: '2'
 ---
 |                 	|                                                                   	|
-|-----------------	|-------------------------------------------------------------------	|
+|--------------------	|-------------------------------------------------------------------	|
 | 07/24 - present 	| Research Trainee, European Central Bank                           	|
 | 06/23 - 09/23   	| Research Intern, Deutsche Bundesbank                              	|
 | 11/20 - 08/22   	| Research Assistant, Leibniz Institute for Financial Research SAFE 	|
