@@ -42,7 +42,7 @@ table {
 </style>
 |                 	|                                                                   	|
 |-------------------|-------------------------------------------------------------------	|
-| 07/24 - present &emsp; 	| Research Trainee, European Central Bank                           	|
+| 07/24 - present &emsp; &emsp; &emsp; 	| Research Trainee, European Central Bank                           	|
 | 06/23 - 09/23   	| Research Intern, Deutsche Bundesbank                              	|
 | 11/20 - 08/22   	| Research Assistant, Leibniz Institute for Financial Research SAFE 	|
 | 08/19 - 10/19   	| Intern, Federal Ministry of Economic Affairs of Germany           	|
