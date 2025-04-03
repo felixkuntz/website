@@ -35,8 +35,9 @@ design:
   view: citation
   columns: '2'
 ---
-| 07/24 - present | Research Trainee, European Central Bank                           |
-| 06/23 - 09/23   | Research Intern, Deutsche Bundesbank                              |
-| 11/20 - 08/22   | Research Assistant, Leibniz Institute for Financial Research SAFE |
-| 08/19 - 10/19   | Intern, Federal Ministry of Economic Affairs of Germany           |
-| 03/19 - 06/19   | Intern, Permanent Mission of Germany to the United Nations        |
+|-----------------	|-------------------------------------------------------------------	|
+| 07/24 - present 	| Research Trainee, European Central Bank                           	|
+| 06/23 - 09/23   	| Research Intern, Deutsche Bundesbank                              	|
+| 11/20 - 08/22   	| Research Assistant, Leibniz Institute for Financial Research SAFE 	|
+| 08/19 - 10/19   	| Intern, Federal Ministry of Economic Affairs of Germany           	|
+| 03/19 - 06/19   	| Intern, Permanent Mission of Germany to the United Nations        	|
