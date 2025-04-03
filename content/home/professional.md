@@ -35,6 +35,7 @@ design:
   view: citation
   columns: '2'
 ---
+|                 	|                                                                   	|
 |-----------------	|-------------------------------------------------------------------	|
 | 07/24 - present 	| Research Trainee, European Central Bank                           	|
 | 06/23 - 09/23   	| Research Intern, Deutsche Bundesbank                              	|
