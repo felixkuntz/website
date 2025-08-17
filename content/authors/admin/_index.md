@@ -65,11 +65,11 @@ email: ''
 highlight_name: true
 ---
 
-My name is Felix Kuntz. I am a PhD candidate in Economics at the University of Oxford and a Research Trainee at the European Central Bank.
+My name is Felix Kuntz. I am a PhD candidate in Economics at the University of Oxford and Policy Officer at the Ministry of Finance of Germany.
 
 I hold a Master of Philosophy in Economics from the University of Oxford, a Bachelor of Science in Economics and a Bachelor of Arts in Political Science from Goethe University Frankfurt.
 
-Before joining the University of Oxford and the ECB, I worked as a Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt. I have also completed internships at the Deutsche Bundesbank in Frankfurt, the Permanent Mission of Germany to the United Nations in New York City, and the Federal Ministry of Economics in Berlin.
+I have worked as a Research Trainee at the European Central Bank and as a Research Assistant at the Leibniz Institute for Financial Research SAFE in Frankfurt. In addition, I have completed internships at the Deutsche Bundesbank in Frankfurt, the Permanent Mission of Germany to the United Nations in New York City, and the Federal Ministry for Economic Affairs in Berlin.
 
 My research interests are in the field of macroeconomics, in particular monetary policy, financial frictions, heterogeneous agents and fiscal-monetary interactions.
 

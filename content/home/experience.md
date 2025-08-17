@@ -23,13 +23,23 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Policy Officer
+    company: Federal Ministry of Finance of Germany 
+    company_url: 'https://www.bundesfinanzministerium.de/Web/EN/Home/home.html'
+    company_logo: germany
+    location: Berlin, Germany
+    date_start: '2025-05-19'
+    date_end: ''
+    description: |2-
+        Policy Officer as part of the Ministry's Graduate Programme.
+        
   - title: Research Trainee
     company: European Central Bank 
     company_url: 'https://www.ecb.europa.eu'
     company_logo: ecb
     location: Frankfurt, Germany
     date_start: '2024-07-01'
-    date_end: ''
+    date_end: '2025-05-18'
     description: |2-
         Research Trainee at the DG Research in the Monetary Policy Research Division.
         
