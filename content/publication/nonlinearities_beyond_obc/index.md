@@ -78,4 +78,5 @@ slides: example
 ---
 
 ### Presented
+10/06/2025 &emsp; University of Oxford, Department of Economics, Internal Seminar
 25/02/2025 &emsp; European Central Bank, DG Research, Internal Seminar
