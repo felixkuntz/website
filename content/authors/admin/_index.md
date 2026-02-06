@@ -10,7 +10,7 @@ role: Doctoral Student in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Oxford
+  - name: University of Oxford and Deutsche Bundesbank
     url: https://www.ox.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
@@ -65,7 +65,7 @@ email: ''
 highlight_name: true
 ---
 
-My name is Felix Kuntz. I am a PhD candidate in Economics at the University of Oxford and Policy Officer at the Ministry of Finance of Germany.
+My name is Felix Kuntz. I am an Economist at Deutsche Bundesbank and PhD candidate in Economics at the University of Oxford.
 
 I hold a Master of Philosophy in Economics from the University of Oxford, a Bachelor of Science in Economics and a Bachelor of Arts in Political Science from Goethe University Frankfurt.
 
